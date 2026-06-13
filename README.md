@@ -12,9 +12,3 @@ A responsive FAQ page built using HTML, CSS, and JavaScript.
 - HTML5
 - CSS3
 - JavaScript
-
-## Live Demo
-(Add your GitHub Pages link here)
-
-## Author
-Mahesar-del
